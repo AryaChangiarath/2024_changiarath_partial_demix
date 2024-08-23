@@ -13,9 +13,9 @@ Our simulations use the HOOMD-Blue software package with the residue-level hydro
 ## Key Objectives
 
 - **Determine interfacial tensions** between different interphases in multiphasic systems.
-- **Interfacial Tension with Dilute Phase:** Measure the interfacial tension between the condensate and its dilute phases in the case of CTD and pCTD-HRD systems.
-- **Estimate the Interfacial Tension** between CTD and pCTD-HRD condensates within a multiphasic system.
+-  Measure the interfacial tension between the condensate and its dilute phases in the case of CTD and pCTD-HRD systems.
+-  Estimate the Interfacial Tension between CTD and pCTD-HRD condensates within a multiphasic system.
 
 ## Analysis Methods
 
-Capillary wave theory is used to calculate interfacial tension by analyzing thermal fluctuations and measuring interfacial width in slab simulations.
+Capillary wave theory is used to calculate interfacial tension by measuring interfacial width in slab simulations.
